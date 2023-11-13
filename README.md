@@ -46,13 +46,7 @@ https://github.com/RaheelAhmad0066/Vpn_App_Flutter/assets/146185477/1011cd1a-0e3
 </ul>
 
 <b>Note:</b> This Project is a built on top of NizVpn Flutter (Show some love to his efforts).
-<br>Github Link: https://github.com/nizwar/nizvpn
-  
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-<br>
-  
-  
-<!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
+
+
+For Feedback or Suggestions Mail Me At raheelahmad00669@gmail.com 🙂
 
